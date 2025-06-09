@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files/folders
+!.gitignore
+!README.md
+!du-an-thuc-te.js
+!analyze.py
+!csvdata/
+!csvdata/*.csv
